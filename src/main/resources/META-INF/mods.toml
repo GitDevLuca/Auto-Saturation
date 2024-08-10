@@ -1,12 +1,12 @@
 modLoader="javafml"
 loaderVersion="[34,)" # Version anpassen je nach Forge-Version
 license="MIT"
-issueTrackerURL="https://example.com/issues"
-mod {
-modId='autoeat'
-version='1.0.0'
-displayName='AutoEat Mod'
+issueTrackerURL="nothing"
+
+[[mods]] # Dies markiert den Beginn eines Mod-Eintrags
+modId="autoeat"
+version="1.0.0"
+displayName="Autoeat Mod"
 description='''A Minecraft mod that automatically eats when the player is hungry.'''
-authors="Dein Name"
-credits="Dein Name"
-}
+authors="Luca"
+credits="Nagio"
